@@ -1,3 +1,4 @@
+#!/bin/bash
 cd $HOME
 git clone https://students.nyuad.nyu.edu/academics/global/gnu.paths/index.html
 ln -s dotfiles/.screenrc
