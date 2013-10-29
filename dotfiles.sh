@@ -1,5 +1,5 @@
 cd $HOME
-git clone https://students.nyuad.nyu.edu/academics/global/gnu.paths/index.html
+git clone git@github.com:lingz/dotfiles.git 
 ln -s dotfiles/.screenrc
 ln -s dotfiles/.inputrc
 ln -s dotfiles/.vimrc
