@@ -1,3 +1,4 @@
+#!/bin/bash
 cd $HOME
 git clone git@github.com:lingz/dotfiles.git 
 ln -s dotfiles/.screenrc
